@@ -60,12 +60,8 @@ Using a sample dataset, we developed SQL queries to:
 - High-Value Customers: A & B spent more and visited often.
 - Ramen Dominance: The most popular dish overall.
 - Membership Impact: A benefited more from the double-points promo.
+- Loyalty Potential: B could be incentivized to order more post-signup.
 
 ## Recommendation
 Takemoto’s restaurant should focus on promoting ramen and membership benefits to high-spending customers (A & B) to boost loyalty and sales. 
 Similarly, offer targeted sushi promotions to increase point redemption and engagement, especially for customer C.
-
-
-
-•	Loyalty Potential: B could be incentivized to order more post-signup.
-
